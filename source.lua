@@ -570,7 +570,7 @@ function CFAHub:CreateWindow(title, gameName, intro)
     logo.Position = UDim2.new(0.0299999993, 0, 0.5, 0)
     logo.Size = UDim2.new(0, 25, 0, 25)
     logo.ZIndex = 2
-    logo.Image = themes.Logo
+    logo.Image = "rbxassetid://16768540392"
     Objects[logo] = "Logo"
 
     Title.Name = "Title"
